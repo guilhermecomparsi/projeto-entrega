@@ -1,1 +1,2 @@
 Erro no módulo de eventos
+Ajuste no painel de eventos
